@@ -17,7 +17,8 @@ Welcome to **Hotel Room**, a beautifully designed frontend website for hotel boo
 
 ## 📸 Screenshots  
 
-![Screenshot from 2025-02-03 11-56-31](https://github.com/user-attachments/assets/1ec99bdd-50d7-4978-a1a4-c1b77e92c85b)
+![Screenshot from 2025-02-03 11-56-31](https://github.com/user-attachments/assets/c52e889d-eb9c-4dd7-991f-de016901b2bd)
+
 
 
 ## 📦 Installation & Setup  
